@@ -1,0 +1,12 @@
+.imgDiv {
+    border:1px solid lightgrey;
+    border-radius: 70%;
+    width:250px;
+    height:230px;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
